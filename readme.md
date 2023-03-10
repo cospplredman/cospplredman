@@ -3,6 +3,6 @@
 
 <div>
   <form>
-    <input type="text">hehe</input
+    <input type="text">hehe</input>
   </form>
 </div>
